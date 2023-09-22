@@ -1,0 +1,8 @@
+pandas
+rdkit
+scikit-learn
+xgboost
+imblearn
+deepchem
+tensorflow
+
